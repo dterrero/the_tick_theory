@@ -7,14 +7,7 @@ Counting the cycles $``ticks''$ of a clock is simply the operational method we u
 **Arrows of Time: Cognitive vs. Physical**
 The sense that we could “go back” is a cognitive act: memory reconstructs prior records in the present. This psychological arrow rides on internal state updates, not on any physical reversal. By contrast, the thermodynamic arrow is physical: macroscopic processes generate records and disperse information, with entropy typically increasing. In the present framework, durations are relational counts $\Delta t^{(B)}=\Delta s_B/c$; the *direction* arises because global configurations and records are practically non-repeatable. Thus “past $\to$ present $\to$ future” reflects (i) the generation and retention of records and (ii) the statistical irreversibility of large systems, while the time coordinate itself remains a dynamic axis defined by admissible clocks.
 
-This repository contains the full, buildable LaTeX source for:
-
-**_Time as a Dynamic Axis: An Operational Definition_**
-
-- **Author:** Dickson A. Terrero  
-- **ORCID:** https://orcid.org/0009-0005-4170-149X
-
-The paper gives an operational, relational account of time. Durations are defined by counting cycles of an admissible clock and (optionally) using a wave-calibrated representation, yielding
+This paper isn't just philosophical, its actually physically grounded and it gives an operational, relational account of time. Durations are defined by counting cycles of an admissible clock and (optionally) using a wave-calibrated representation, yielding
 
 $\Delta t^{(B)} = \frac{\Delta s_B}{c} = N_B\tau_B\$,
 
@@ -73,3 +66,9 @@ arXiv:YYYY.YYYYY [gen-ph]                 <!-- replace after arXiv submission --
   primaryClass = {gen-ph},
   orcid        = {0009-0005-4170-149X}
 }
+```
+
+**_Time as a Dynamic Axis: An Operational Definition_**
+
+- **Author:** Dickson A. Terrero  
+- **ORCID:** https://orcid.org/0009-0005-4170-149X
