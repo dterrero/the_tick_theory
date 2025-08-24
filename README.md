@@ -14,7 +14,7 @@ so time functions as a **dynamic axis** rather than a pre-assumed background par
 
 ---
 
-## Repository layout
+## Repository Layout
 
 - `paper.tex` — main LaTeX source  
 - `Makefile` and/or `latexmkrc` — one-command builds  
