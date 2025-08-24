@@ -55,7 +55,7 @@ If you use this work, please cite:
   author       = {Terrero, Dickson A.},
   year         = {2025},
   howpublished = {Preprint},
-  doi          = {10.5281/zenodo.16936606}
+  doi          = {10.5281/zenodo.16936606},
   primaryClass = {gen-ph},
   orcid        = {0009-0005-4170-149X}
 }
