@@ -43,6 +43,10 @@ latexmk -pdf paper.tex
 ## How to cite
 
 If you use this work, please cite:
+**_Time as a Dynamic Axis: An Operational Definition_**
+
+- **Author:** Dickson A. Terrero  
+- **ORCID:** https://orcid.org/0009-0005-4170-149X
 
 **BibTeX:**
 ```bibtex
@@ -57,8 +61,3 @@ If you use this work, please cite:
   orcid        = {0009-0005-4170-149X}
 }
 ```
-
-**_Time as a Dynamic Axis: An Operational Definition_**
-
-- **Author:** Dickson A. Terrero  
-- **ORCID:** https://orcid.org/0009-0005-4170-149X
