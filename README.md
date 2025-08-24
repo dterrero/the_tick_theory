@@ -20,8 +20,6 @@ so time functions as a **dynamic axis** rather than a pre-assumed background par
 ## Repository layout
 
 - `paper.tex` — main LaTeX source  
-- `references.bib` — bibliography  
-- `images/` — figures (TikZ/PDF/PNG as needed)  
 - `Makefile` and/or `latexmkrc` — one-command builds  
 - `LICENSE` — content license
 
