@@ -40,6 +40,8 @@ so time functions as a **dynamic axis** rather than a pre-assumed background par
 **One-liner (recommended)**  
 ```bash
 latexmk -pdf paper.tex
+```
+---
 
 ## How to cite
 
