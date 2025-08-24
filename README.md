@@ -47,6 +47,7 @@ If you use this work, please cite:
 
 - **Author:** Dickson A. Terrero  
 - **ORCID:** https://orcid.org/0009-0005-4170-149X
+- **Zeonodo:** https://doi.org/10.5281/zenodo.16936607
 
 **BibTeX:**
 ```bibtex
