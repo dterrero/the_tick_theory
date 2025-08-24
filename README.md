@@ -44,14 +44,6 @@ latexmk -pdf paper.tex
 
 If you use this work, please cite:
 
-**Terrero, D. A. (2025). _Time as a Dynamic Axis: An Operational Definition_.**  
-ORCID: https://orcid.org/0009-0005-4170-149X
-
-**Preferred citation (preprint):**
-Terrero, D. A. (2025). *Time as a Dynamic Axis: An Operational Definition*. 
-[Preprint]. DOI: 10.5281/zenodo.XXXXXXX  <!-- replace after Zenodo deposit -->
-arXiv:YYYY.YYYYY [gen-ph]                 <!-- replace after arXiv submission -->
-
 **BibTeX:**
 ```bibtex
 @misc{terrero_dynamic_axis_2025,
