@@ -10,7 +10,7 @@ This paper isn't just philosophical, its actually physically grounded and it giv
 
 $\Delta t^{(B)} = \frac{\Delta s_B}{c} = N_B\tau_B\$,
 
-so time functions as a **dynamic axis** rather than a pre-assumed background parameter.
+where $\Delta s_B = N_B \lambda_B$ is the **process-distance** advanced by the clock, $N_B$ is the number of ticks, $\tau_B$ is the clock’s period, and $\lambda_B$ is its associated wavelength (defined via $c = \lambda_B / \tau_B$).
 
 ---
 
