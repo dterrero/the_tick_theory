@@ -60,7 +60,6 @@ arXiv:YYYY.YYYYY [gen-ph]                 <!-- replace after arXiv submission --
   year         = {2025},
   howpublished = {Preprint},
   doi          = {10.5281/zenodo.XXXXXXX}, % replace after Zenodo
-  eprint       = {YYYY.YYYYY},             % replace after arXiv
   archivePrefix= {arXiv},
   primaryClass = {gen-ph},
   orcid        = {0009-0005-4170-149X}
