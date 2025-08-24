@@ -1,6 +1,6 @@
 # Time as a Dynamic Axis — Source
 
-> “Time is not a backdrop; it is the counted advance of processes, and the universe sets the count.”
+“Time is not a backdrop; it is the counted advance of processes, and the universe sets the count.”
 
 This repository contains the full, buildable LaTeX source for:
 
