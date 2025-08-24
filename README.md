@@ -9,7 +9,8 @@ This repository contains the full, buildable LaTeX source for:
 - **Author:** Dickson A. Terrero  
 - **ORCID:** https://orcid.org/0009-0005-4170-149X
 
-The paper gives an operational, relational account of time. Durations are defined by counting cycles of an admissible clock and (optionally) using a wave-calibrated representation, yielding  
+The paper gives an operational, relational account of time. Durations are defined by counting cycles of an admissible clock and (optionally) using a wave-calibrated representation, yielding
+
 $\Delta t^{(B)} = \frac{\Delta s_B}{c} = N_B\tau_B\$,
 
 so time functions as a **dynamic axis** rather than a pre-assumed background parameter.
