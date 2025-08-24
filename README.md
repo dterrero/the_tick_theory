@@ -1,4 +1,4 @@
-# Time as a Dynamic Axis — Source
+# Time as a Dynamic Axis — 4D
 
 “Time is not a backdrop; it is the counted advance of processes, and the universe sets the count.”
 
