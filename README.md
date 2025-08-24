@@ -22,7 +22,7 @@ so time functions as a **dynamic axis** rather than a pre-assumed background par
 
 ---
 
-## Quick roadmap (for readers)
+## Quick Roadmap
 
 1. **Admissible clocks** — periodic, reproducible, calibrable; $c=\lambda_B/\tau_B$.  
 2. **Duration (operational)** — $\Delta t^{(B)}=N_B\tau_B\$ ; optional $\Delta t^{(B)}=\Delta s_B/c\$ with $\Delta s_B=N_B\lambda_B\$.  
