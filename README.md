@@ -40,3 +40,29 @@ so time functions as a **dynamic axis** rather than a pre-assumed background par
 **One-liner (recommended)**  
 ```bash
 latexmk -pdf paper.tex
+
+## How to cite
+
+If you use this work, please cite:
+
+**Terrero, D. A. (2025). _Time as a Dynamic Axis: An Operational Definition_.**  
+ORCID: https://orcid.org/0009-0005-4170-149X
+
+**Preferred citation (preprint):**
+Terrero, D. A. (2025). *Time as a Dynamic Axis: An Operational Definition*. 
+[Preprint]. DOI: 10.5281/zenodo.XXXXXXX  <!-- replace after Zenodo deposit -->
+arXiv:YYYY.YYYYY [gen-ph]                 <!-- replace after arXiv submission -->
+
+**BibTeX:**
+```bibtex
+@misc{terrero_dynamic_axis_2025,
+  title        = {Time as a Dynamic Axis: An Operational Definition},
+  author       = {Terrero, Dickson A.},
+  year         = {2025},
+  howpublished = {Preprint},
+  doi          = {10.5281/zenodo.XXXXXXX}, % replace after Zenodo
+  eprint       = {YYYY.YYYYY},             % replace after arXiv
+  archivePrefix= {arXiv},
+  primaryClass = {gen-ph},
+  orcid        = {0009-0005-4170-149X}
+}
