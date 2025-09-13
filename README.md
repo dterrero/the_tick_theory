@@ -22,9 +22,7 @@ We present a realist reinterpretation of relativistic phenomena, *Universal Time
 3. **Light calibration** — Use light as the invariant standard: $\Delta t_{\text{univ}}=\Delta L_{\text{light}}/c$. On the chosen standard worldline, fix the gauge so $dT=d\tau$.
 
 4. **Duration (what clocks record)** — Along any worldline $\gamma$,
-    $
-      d\tau = S\,dT, \qquad S \in (0,1].
-    $
+    $d\tau = S\,dT, \qquad S \in [0,1]$.
 For ideal clocks, $S=\alpha(v,\Phi)$ (e.g., $\alpha(v)=\sqrt{1-v^2/c^2}$; in weak gravity: $\alpha(\Phi)\approx\sqrt{1+2\Phi/c^2}$).
 
     \item \textbf{Tick suppression (mechanism)} — Motion and gravity reduce $S$: 
