@@ -23,9 +23,9 @@ We present a realist reinterpretation of relativistic phenomena, *Universal Time
 
 4. **Duration (what clocks record)** — Along any worldline $\gamma$,
 
-            $d\tau = S\,dT, \qquad S \in [0,1]$.
+            $d\tau = S \,dT, \qquad S \in [0,1]$.
 
-For ideal clocks, $S=\alpha(v,\Phi)$ (e.g., $\alpha(v)=\sqrt{1-v^2/c^2}$; in weak gravity: $\alpha(\Phi)\approx\sqrt{1+2\Phi/c^2}$).
+  For ideal clocks, $S=\alpha(v,\Phi)$ (e.g., $\alpha(v)=\sqrt{1-v^2/c^2}$; in weak gravity: $\alpha(\Phi)\approx\sqrt{1+2\Phi/c^2}$).
 
 5. **Tick suppression (mechanism)** — Motion and gravity reduce $S$: fewer ticks per unit $T$. Time $T$ does not slow; devices/processes do.
 
