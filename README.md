@@ -60,7 +60,7 @@ If you use this work, please cite:
 
 - **Author:** Dickson A. Terrero  
 - **ORCID:** https://orcid.org/0009-0005-4170-149X
-- **Zeonodo:** https://doi.org/10.5281/zenodo.16936607
+- **Zeonodo:** https://doi.org/10.5281/zenodo.17114499
 
 **BibTeX:**
 ```bibtex
@@ -69,7 +69,7 @@ If you use this work, please cite:
   author       = {Terrero, Dickson A.},
   year         = {2025},
   howpublished = {Preprint},
-  doi          = {10.5281/zenodo.16936606},
+  doi          = {10.5281/zenodo.17114499},
   primaryClass = {gen-ph},
   orcid        = {0009-0005-4170-149X}
 }
