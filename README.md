@@ -29,31 +29,19 @@ We present a realist reinterpretation of relativistic phenomena, *Universal Time
 
 6. **Tick suppression (mechanism)** — Motion and gravity reduce $S$: fewer ticks per unit $T$. Time $T$ does not slow; devices/processes do.
 
-    \item \textbf{No ``deviation from $T$'' language} — Differences are encoded in $S$ 
-    (conversion coefficient), not by leaving or tilting away from $T$.
+7. **No ``deviation from $T$'' language** — Differences are encoded in $S$ (conversion coefficient), not by leaving or tilting away from $T$.
 
-    \item \textbf{Simultaneity \& frames} — Frame simultaneity is perspectival; 
-    $T$-simultaneity is observer-independent. 
-    Standard Lorentz transforms translate between observer grids and $(T,\vec X)$.
+8. **Simultaneity \& frames** — Frame simultaneity is perspectival; $T$-simultaneity is observer-independent. Standard Lorentz transforms translate between observer grids and $(T,\vec X)$.
 
-    \item \textbf{Twin paradox (resolution)} — Both twins share the same $\Delta T$; 
-    the traveler accumulates fewer ticks: 
-    $\Delta\tau_{\text{trav}}=\alpha(v)\,\Delta T$. 
-    Aging difference comes from suppression, not ``time itself'' slowing.
+9. **Twin paradox (resolution)** — Both twins share the same $\Delta T$; the traveler accumulates fewer ticks: $\Delta\tau_{\text{trav}}=\alpha(v)\,\Delta T$. Aging difference comes from suppression, not ``time itself'' slowing.
 
-    \item \textbf{Cosmological anchoring (optional)} — On FLRW scales, pick the CMB comoving 
-    congruence $U^\mu$; then $T$ coincides (up to affine rescaling) with cosmic time.
+10. **Cosmological anchoring (optional)** — On FLRW scales, pick the CMB comoving congruence $U^\mu$; then $T$ coincides (up to affine rescaling) with cosmic time.
 
-    \item \textbf{Device factor (optional)} — Real clocks may have a material factor 
-    $s_{\mathrm{tick}} \in (0,1]$ (imperfections). By default set $s_{\mathrm{tick}}=1$; 
-    use it only when modeling non-ideal devices.
+11. **Device factor (optional)** — Real clocks may have a material factor $s_{\mathrm{tick}} \in (0,1]$ (imperfections). By default set $s_{\mathrm{tick}}=1$; use it only when modeling non-ideal devices.
 
-    \item \textbf{Scope \& locality} — All claims hold on a domain $\mathcal U$ 
-    where $U^\mu$ is hypersurface-orthogonal and a $T$–foliation exists; 
-    statements are local (MCIF) and GR-compatible.
+12. **Scope \& locality** — All claims hold on a domain $\mathcal U$ where $U^\mu$ is hypersurface-orthogonal and a $T$–foliation exists; statements are local (MCIF) and GR-compatible.
 
-    \item \textbf{Causality unchanged} — Light cones still govern influence; 
-    a universal $\Delta T$ does not enable superluminal signaling.
+13. **Causality unchanged** — Light cones still govern influence; a universal $\Delta T$ does not enable superluminal signaling.
 
 ---
 
