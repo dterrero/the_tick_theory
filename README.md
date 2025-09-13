@@ -14,6 +14,52 @@ We present a realist reinterpretation of relativistic phenomena, *Universal Time
 
 ## Quick Roadmap
 
+1. **Universal time ($T$)** — A physical scalar that foliates an open domain $\mathcal U$ into slices $\Sigma_T$. 
+    All systems share the same lapse $dT$ (absolute ordering of events).
+
+2. **Moments \& interval** — A moment is an event $p=(T,\vec x)$. The universal interval is the fixed, path-independent $\Delta T=T_2-T_1$ (not the Minkowski metric interval).
+
+    \item \textbf{Light calibration} — Use light as the invariant standard: 
+    $\Delta t_{\text{univ}}=\Delta L_{\text{light}}/c$. 
+    On the chosen standard worldline, fix the gauge so $dT=d\tau$.
+
+    \item \textbf{Duration (what clocks record)} — Along any worldline $\gamma$,
+    \[
+      d\tau = S\,dT, \qquad S \in (0,1].
+    \]
+    For ideal clocks, $S=\alpha(v,\Phi)$ 
+    (e.g., $\alpha(v)=\sqrt{1-v^2/c^2}$; in weak gravity: 
+    $\alpha(\Phi)\approx\sqrt{1+2\Phi/c^2}$).
+
+    \item \textbf{Tick suppression (mechanism)} — Motion and gravity reduce $S$: 
+    fewer ticks per unit $T$. Time $T$ does not slow; devices/processes do.
+
+    \item \textbf{No ``deviation from $T$'' language} — Differences are encoded in $S$ 
+    (conversion coefficient), not by leaving or tilting away from $T$.
+
+    \item \textbf{Simultaneity \& frames} — Frame simultaneity is perspectival; 
+    $T$-simultaneity is observer-independent. 
+    Standard Lorentz transforms translate between observer grids and $(T,\vec X)$.
+
+    \item \textbf{Twin paradox (resolution)} — Both twins share the same $\Delta T$; 
+    the traveler accumulates fewer ticks: 
+    $\Delta\tau_{\text{trav}}=\alpha(v)\,\Delta T$. 
+    Aging difference comes from suppression, not ``time itself'' slowing.
+
+    \item \textbf{Cosmological anchoring (optional)} — On FLRW scales, pick the CMB comoving 
+    congruence $U^\mu$; then $T$ coincides (up to affine rescaling) with cosmic time.
+
+    \item \textbf{Device factor (optional)} — Real clocks may have a material factor 
+    $s_{\mathrm{tick}} \in (0,1]$ (imperfections). By default set $s_{\mathrm{tick}}=1$; 
+    use it only when modeling non-ideal devices.
+
+    \item \textbf{Scope \& locality} — All claims hold on a domain $\mathcal U$ 
+    where $U^\mu$ is hypersurface-orthogonal and a $T$–foliation exists; 
+    statements are local (MCIF) and GR-compatible.
+
+    \item \textbf{Causality unchanged} — Light cones still govern influence; 
+    a universal $\Delta T$ does not enable superluminal signaling.
+
 1. **Admissible clocks** — periodic, reproducible, calibrable; $c=\lambda_B/\tau_B$.  
 2. **Duration (operational)** — $\Delta t^{(B)}=N_B\tau_B\$ ; optional $\Delta t^{(B)}=\Delta s_B/c\$ with $\Delta s_B=N_B\lambda_B\$.  
 3. **Principle (Relational time)** — only relations between processes are measurable; ideal clocks realize proper time locally.  
@@ -33,7 +79,7 @@ latexmk -pdf paper.tex
 ## How to cite
 
 If you use this work, please cite:
-**_Time as a Dynamic Axis: An Operational Definition_**
+**_Universal Time and Tick Suppression: A Realistic Interpretation of Relativistic Effects_**
 
 - **Author:** Dickson A. Terrero  
 - **ORCID:** https://orcid.org/0009-0005-4170-149X
@@ -42,7 +88,7 @@ If you use this work, please cite:
 **BibTeX:**
 ```bibtex
 @misc{terrero_dynamic_axis_2025,
-  title        = {Time as a Dynamic Axis: An Operational Definition},
+  title        = {Universal Time and Tick Suppression: A Realistic Interpretation of Relativistic Effects},
   author       = {Terrero, Dickson A.},
   year         = {2025},
   howpublished = {Preprint},
