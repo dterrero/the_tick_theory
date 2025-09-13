@@ -2,6 +2,17 @@
 
 We present a realist reinterpretation of relativistic phenomena, *Universal Time and Tick Suppression*. Time is taken not as an observer–relative parameter but as a universal, dynamic axis: a smooth future-directed timelike field $\(U\)$ along which the total mass–energy of the universe advances. Effects usually described as “time dilation” are recast as *tick suppression*: a physical slowing of internal processes (clocks, decays) due to the energy cost of sustaining motion through space or persisting in gravitational fields. This energy–allocation mechanism is formalized as the *Inertial Suppression Principle*, providing a causal reading that is operationally equivalent to standard relativity while ontologically distinct. We also specify a light-based calibration of duration, using local MCIFs and $\(c\)$, that is independent of potentially suppressed clocks. The framework unifies kinematic and gravitational slowdowns under a single mechanism, preserves all empirical predictions, and offers a clear, absolute (yet physical) notion of time that clarifies puzzles of simultaneity without altering relativistic phenomenology.
 
+### Overview
+
+This framework proposes a physically objective interpretation of time (Einstein 1905). Rather than viewing time as relative to different observers, the theory presents the following core principles:
+
+-   There is one shared reality.
+-   There is one universal time.
+-   Observable phenomena, such as clocks running slower or particles decaying more slowly, are real effects on physical processes, not on time itself.
+
+
+The key claim is that **processes slow down**, not time. Everything in the universe unfolds along the same universal time axis, and effects seen in high-speed or high-gravity environments reflect changes in the systems involved, not a change in the passage of time.
+
 <p align="center">
   <img src="images/The_Universe_Along_the_T_Axis.png" alt="The Universe Along the T Axis" width="500"/><br/>
 </p>
