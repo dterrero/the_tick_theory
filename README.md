@@ -6,7 +6,7 @@ We present a realist reinterpretation of relativistic phenomena, *Universal Time
   <img src="images/The_Universe_Along_the_T_Axis.png" alt="The Universe Along the T Axis" width="500"/><br/>
 </p>
 
-Figure 1: The universal time axis $T$ represents the trajectory of the universe's total mass-energy. The red line denotes cosmic, flowing from the physical start $\Sigma_0$. Each galaxy represents the state of the entire universe at a specific moment on the cosmic timeline. This model treats “earlier universe” and “universe now” as distinct states along a single, objective timeline, not as frames in a relative perspective.
+Figure 1: The universal time axis $T$ represents the trajectory of the universe's total mass-energy. The red line denotes cosmic, flowing from the physical start $\Sigma_0$. Each galaxy-like image represents the state of the entire universe at a specific moment on the cosmic timeline. This model treats “earlier universe” and “universe now” as distinct states along a single, objective timeline, not as frames in a relative perspective.
 
 
 ---
